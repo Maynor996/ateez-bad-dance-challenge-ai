@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://remixmeme.com/templates/ateez-bad-dance-challenge-ai"><img src="https://img.shields.io/badge/Live-remixmeme.com-111111?style=for-the-badge" alt="Live" /></a>
   <a href="https://remixmeme.com/zh/templates/ateez-bad-dance-challenge-ai"><img src="https://img.shields.io/badge/中文-remixmeme.com%2Fzh-2ea44f?style=for-the-badge" alt="ZH" /></a>
-  <a href="https://maynor996.github.io/rm-ateez-bad-dance-challenge-ai/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
+  <a href="https://maynor996.github.io/ateez-bad-dance-challenge-ai/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
 </p>
 
 **ATEEZ BAD Challenge AI: Do the BAD Dance From One Photo** is one of the AI meme / viral templates on **[Remix Meme](https://remixmeme.com)** (Awesome Meme Video).
@@ -21,7 +21,7 @@ The ATEEZ BAD challenge is the chest pop dance of ATEEZ's summer 2026 hit "BAD":
 | **Template** | https://remixmeme.com/templates/ateez-bad-dance-challenge-ai |
 | **中文** | https://remixmeme.com/zh/templates/ateez-bad-dance-challenge-ai |
 | **Catalog home** | https://remixmeme.com |
-| **This landing** | https://maynor996.github.io/rm-ateez-bad-dance-challenge-ai/ |
+| **This landing** | https://maynor996.github.io/ateez-bad-dance-challenge-ai/ |
 
 ## How to use
 
